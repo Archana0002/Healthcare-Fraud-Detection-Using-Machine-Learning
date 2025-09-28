@@ -1,0 +1,2 @@
+Model/random_forest.pkl filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
